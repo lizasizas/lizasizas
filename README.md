@@ -1,6 +1,6 @@
 ### Hi there 👋
-Perkenalkan nama saya **Siti Nurhaliza**. <br>
-Saya merupakan mahasiswa Jurusan Matematika di Universitas Sriwijaya. <br>
+Perkenalkan nama saya **Siti Nurhaliza** <br>
+Saya merupakan mahasiswa Jurusan Matematika di Universitas Sriwijaya <br>
 Ayoo berkoneksi [LinkedIn](https://www.linkedin.com/in/sitilizla/) dengan saya 
 <!--
 **lizasizas/lizasizas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
