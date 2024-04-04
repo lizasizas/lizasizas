@@ -1,7 +1,7 @@
 ### Hi there 👋
-Perkenalkan nama saya **Siti Nurhaliza** <br>
-Saya merupakan mahasiswa Jurusan Matematika di Universitas Sriwijaya <br>
-Ayoo berkoneksi [LinkedIn](https://www.linkedin.com/in/sitilizla/) dengan saya 
+my name is **Siti Nurhaliza** <br>
+I'm a student of the Mathematics Department at Sriwijaya University <br>
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sitilizla/) 
 
 ### Github Statistic
 <p align="left">
