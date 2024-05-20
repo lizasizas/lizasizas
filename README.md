@@ -1,7 +1,7 @@
 ### Hi there 👋
 my name is **lizaa** <br>
 ⚡ I'm a student of the Mathematics Department at Sriwijaya University <br>
-🔭 I’m currently cohort at Bangkit Academy led by Google, Gojek, Tokopedia & Traveloka
+🔭 I’m currently cohort at Bangkit Academy led by Google, Gojek, Tokopedia & Traveloka <br>
 🌱 I’m currently learning Machine Learning and Data Science <br>
 📫 How to reach me: sitiliza4776@gmail.com <br>
 
