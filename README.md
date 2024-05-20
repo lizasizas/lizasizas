@@ -1,6 +1,9 @@
 ### Hi there 👋
-my name is **Siti Nurhaliza** <br>
+my name is **lizaa** <br>
 ⚡ I'm a student of the Mathematics Department at Sriwijaya University <br>
+🌱 I’m currently learning Machine Learning and Data Science <br>
+📫 How to reach me: sitiliza4776@gmail.com <br>
+
 <!--Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sitilizla/) -->
 
 <h3 align="left">Connect with me:</h3>
