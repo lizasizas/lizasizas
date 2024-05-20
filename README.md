@@ -1,7 +1,13 @@
 ### Hi there 👋
 my name is **Siti Nurhaliza** <br>
-I'm a student of the Mathematics Department at Sriwijaya University <br>
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sitilizla/) 
+⚡ I'm a student of the Mathematics Department at Sriwijaya University <br>
+<!--Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sitilizla/) -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sitilizla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangga saputra" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lizasizas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rangga_saputra37" height="30" width="40" /></a>
+</p>
 
 ### Github Statistic
 <p align="left">
