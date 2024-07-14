@@ -12,6 +12,8 @@
 <a href="https://www.instagram.com/liizzaaaa_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rangga_saputra37" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lizasizas&label=Profile%20views&color=0e75b6&style=flat" alt="lizasizas" /> </p>
+
 ### Github Statistic
 <p align="left">
 <!--<a href="https://github.com/lizasizas">
