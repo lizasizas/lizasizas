@@ -12,8 +12,6 @@
 <a href="https://www.instagram.com/liizzaaaa_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rangga_saputra37" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lizasizas&label=Profile%20views&color=0e75b6&style=flat" alt="lizasizas" /> </p>
-
 ### Github Statistic
 <p align="left">
 <!--<a href="https://github.com/lizasizas">
@@ -24,7 +22,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lizasizas&show_icons=true&locale=en&layout=compact" alt="lizasizas" /></p>
 
 </p>
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lizasizas&label=Profile%20views&color=0e75b6&style=flat" alt="lizasizas" /> </p>
 <!--
 **lizasizas/lizasizas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
