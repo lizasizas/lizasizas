@@ -1,9 +1,9 @@
 ### Hi there! I am Lizaa
 
 ⚡ I'm a student of the Mathematics Department at Sriwijaya University <br>
-🔭 I’m currently cohort at Bangkit Academy led by Google, Gojek, Tokopedia & Traveloka <br>
 🌱 I’m currently learning Deep Learning, Machine Learning, and Data Science <br>
-<!--📫 How to reach me: sitiliza4776@gmail.com <br> -->
+📫 How to reach me: sitiliza4776@gmail.com <br>
+<!--🔭 I’m currently cohort at Bangkit Academy led by Google, Gojek, Tokopedia & Traveloka <br> -->
 <!--📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sitilizla/)-->
 
 <h3 align="left">Connect with me:</h3>
